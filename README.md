@@ -6,6 +6,7 @@
   <a href="https://www.youtube.com/@ErenixLive">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="64" alt="youtube logo"  />
   </a>
+  <img width="16" />
   <a href="https://www.instagram.com/anshkp06/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="64" alt="instagram logo"  />
   </a>
