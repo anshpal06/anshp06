@@ -1,7 +1,7 @@
 ## Hi, I'm Ansh 👋
 ![Snake animation](https://github.com/anshp06/anshp06/blob/output/github-contribution-grid-snake.svg)
 
-## Skill
+## Skills ⭐
 <div style="display: inline_block"><br>
   <img align="center" alt="PYTHON" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
