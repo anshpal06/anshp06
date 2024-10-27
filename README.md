@@ -1,7 +1,7 @@
 ## Hi, I'm Ansh 👋
-<div style="display: inline_block"><br>
+<div>
 ![Snake animation](https://github.com/anshp06/anshp06/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div><br>
 
 ## Skill
 <div style="display: inline_block"><br>
